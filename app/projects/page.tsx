@@ -9,6 +9,16 @@ export default function Projects() {
       tech: ["python", "telebot-library"],
       features: ["File uploading capability for various formats.", "Interactive buttons that connect to links or text callbacks."],
       github: "https://github.com/Tomm8y/Telegram-Bot",
+      
+    },
+        {
+      title: "Personal-Website",
+      description:
+        "A modern, responsive personal portfolio built with Next.js, TypeScript, Tailwind CSS, and Shadcn UI — designed to showcase your resume, projects, and business information in an elegant and professional way..",
+      tech: ["JavaScript", "TypeScript", "CSS"],
+      features: ["Clean and modern UI built with Tailwind CSS", "Fast performance using Next.js & TypeScript", "Modular component design (Shadcn UI)", "Fully responsive across all devices", "Dark mode support", "Pages for About, Projects, Contact, and more"],
+      github: "https://github.com/Tomm8y/Personal-website",
+      
     },
   ]
 
